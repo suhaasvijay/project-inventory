@@ -1,5 +1,10 @@
 const links = [
   {
+    title: "Chat Application",
+    link: "https://suhaasvijay.github.io/chat-application/",
+    imageUrl: "/Projects/chat-application.png"
+  },
+  {
     title: "Portfolio",
     link: "https://portfolio-suhaas07.netlify.app/",
     imageUrl: "/Projects/portfolio-main.png"
@@ -18,12 +23,7 @@ const links = [
     title: "Portfolio",
     link: "https://portfolio-suhaas.netlify.app/",
     imageUrl: "/Projects/portfolio.png"
-  },
-  {
-    title: "Chat Application",
-    link: "https://suhaasvijay.github.io/chat-application/",
-    imageUrl: "/Projects/chat-application.png"
-  },
+  }
 ]
 
 export default function Projects() {
