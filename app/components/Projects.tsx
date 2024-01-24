@@ -21,8 +21,8 @@ const links = [
   },
   {
     title: "Chat Application",
-    link: "https://suhaasvijay.github.io/chatApplication/",
-    imageUrl: "/Projects/chatApplication.jpeg"
+    link: "https://suhaasvijay.github.io/chat-application/",
+    imageUrl: "/Projects/chat-application.png"
   },
 ]
 
