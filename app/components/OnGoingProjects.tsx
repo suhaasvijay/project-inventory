@@ -17,7 +17,7 @@ export default function OnGoingProjects() {
               key={title}
               href={link}
               target='_blank'
-              className=" w-[350px] h-[150px] mx-auto flex justify-left items-end p-3 text-lg text-white rounded-2xl"
+              className=" w-[350px] h-[150px] mx-auto flex justify-left items-end p-3 text-lg text-white rounded-md"
               style={{
                 backgroundImage: `linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.7) 59%, rgba(0, 0, 0, 1) 100%), url(${imageUrl})`,
                 backgroundSize: "cover",
